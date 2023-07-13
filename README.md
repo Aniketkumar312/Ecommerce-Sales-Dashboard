@@ -3,7 +3,7 @@
 **OBJECTIVE**
 Owner of Store wants us to help them create a dashboard to track and analyze their online sales across India
 
-
+link- https://www.novypro.com/project/e-commerce-sales-dashboard-7
 
 The online sales dashboard project with Power BI analyzes data with charts, tables, and filters to provide insights on sales, customers, and products for businesses to make data-driven decisions
 
